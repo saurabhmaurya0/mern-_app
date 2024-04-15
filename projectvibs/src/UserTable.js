@@ -28,7 +28,9 @@ function UserTable() {
             </tr>
           ) : (
             <tr>
-              <td colSpan="3">No user data available</td>
+              <td >No user data available</td>
+              <td >No user data available</td>
+              <td >No user data available</td>
             </tr>
           )}
         </tbody>
